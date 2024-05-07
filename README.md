@@ -33,17 +33,17 @@ npm run dev
 ## Apresentação do Projeto
 
 ### Tela de Login
-img.png
+![login](https://github.com/2000Paulo/ProvaFabricioP1/assets/109771351/18036ddc-6c29-4e00-a739-e2558ba7653f)
 ### Menu
-img.png
+![Menu](https://github.com/2000Paulo/ProvaFabricioP1/assets/109771351/b195cf89-f0f4-421f-9e21-0fb9d50c38c9)
 ### Tela de Cadastro
-img.png
+![cadastro](https://github.com/2000Paulo/ProvaFabricioP1/assets/109771351/d2d0a8f2-d27e-4403-9d50-b50a86274aac)
 ### Tela Consulta de Alunos Cadastrados
-img.png
+![consulta](https://github.com/2000Paulo/ProvaFabricioP1/assets/109771351/34d78e00-241c-487b-9b31-bebd0cd71b97)
 ### Tela de Alteração dos Alunos
-img.png
+![alteracao](https://github.com/2000Paulo/ProvaFabricioP1/assets/109771351/90b9bc96-1f82-48c9-a34e-bb95b86f66c8)
 ### Tela para Exclusão de Alunos
-img.png
+![Exclusao](https://github.com/2000Paulo/ProvaFabricioP1/assets/109771351/b47d0ca3-dfc0-4283-9264-adf4eefdd030)
 
 ### Video com a execução do projeto:
 
