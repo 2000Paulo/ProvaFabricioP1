@@ -10,9 +10,9 @@ O projeto consiste em um sistema de login feito utilizando o MongoDB caso aquele
 ## Instalando:
 
 #### Clone o repositorio
-```git clone https```
+```git clone https://github.com/2000Paulo/ProvaFabricioP1.git```
 
-#### obs: Algumas depencias viram junto com o repostorio pois utilizamos o venv.
+#### obs: Algumas depencias virão junto com o repostorio pois utilizamos o venv.
 
 ## Dependencias:
 - ```apt get install nodejs```
@@ -24,11 +24,10 @@ O projeto consiste em um sistema de login feito utilizando o MongoDB caso aquele
 
 ## Uso:
 
-cd ProjetoProvaP1
-
-Executar login.html
-Executar o main.py
-npm run dev
+- ```cd ProjetoProvaP1```
+- ```Executar o main.py```
+- ```npm run dev```
+- ```Executar login-mongo/login.html```
 
 ## Apresentação do Projeto
 
