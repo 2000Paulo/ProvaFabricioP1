@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Alunos</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <h1>Consulta de Alunos</h1>
+    <h2><a href="/">Página Inicial</a></h2>
+    <table>
+        <tr>
+            <th>Nome</th>
+            <th>Matrícula</th>
+        </tr>
+        {% for aluno in alunos %}
+        <tr>
+            <td>{{ aluno[1] }}</td>
+            <td>{{ aluno[2] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

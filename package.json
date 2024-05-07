@@ -1,0 +1,23 @@
+{
+  "name": "provafabriciop1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "4.19.2",
+    "method-override": "^3.0.0",
+    "mongodb": "^6.6.0",
+    "mongoose": "8.3.3",
+    "node-fetch": "^3.3.2",
+    "override": "^0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

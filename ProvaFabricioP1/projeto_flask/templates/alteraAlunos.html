@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Altera Alunos</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <h1>Alteração de Alunos</h1>
+    <form action="/alteraAlunos" method="post">
+        <label for="matricula"><strong>Matrícula do Aluno</strong></label>
+        <input type="text" id="matricula" name="matricula"><br><br>
+        <label for="nomeAlterar"><strong>Novo Nome</strong></label>
+        <input type="text" id="nomeAlterar" name="nomeAlterar"><br><br>
+        <input type="submit" value="Alterar">
+    </form>
+</body>
+</html>
